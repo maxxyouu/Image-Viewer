@@ -1,0 +1,37 @@
+// command to our group repository by
+cd group_0553/phase2/src
+
+// compile our program by using the following command
+javac -cp lib/junit-jupiter-api-5.0.0.jar */*.java
+
+// run our program by using the following command
+java View.Main
+
+// the program should be running now
+
+NEW FEATURES : 1) drag and drop photos to the image window 2) select a list of tags to view all photos that are related to those tags
+
+----------The following are instructions of how to USE the program -----------
+Note: the list view above the "Add New Tag" button displays all currently existing tags
+Note: the list view right beside the currently existing tags is the views of old sets of tag for a particular photo
+Note: press Ctrl + mouse click to select multiple existing tags (cannot do this for other list items)
+Note: Choose [] in the tag set listview to reverse back to origional name
+Note: Images with the same names that are in different directories are distinguished by the path above the image window in GUI
+
+Add Existing Tags : add existing tags to the selected photo
+
+Import Photos: Import photos in you local directory
+
+Delete Exist Tags:delete the existing tags from the selected photo
+
+Reverse Back To Old Tag Set: choose the old sets of tags for the selected photo
+
+Add New Tag: after you type the tag you want to add to the textfield
+
+Show Log: press this if you want to show the log information of renaming ever done (this will open a txt file)
+
+Move File button: move the selected photo to another directory
+
+Open Folder: open the directory that the selected photo is in.
+
+----- end of instructions -----

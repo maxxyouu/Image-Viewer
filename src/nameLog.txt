@@ -1,0 +1,8 @@
+Jan 01, 2018 9:42:00 AM Model.DataLogger addLog
+INFO: Old Name: X.jpg New Name: X @planet.jpg
+Jan 01, 2018 9:42:03 AM Model.DataLogger addLog
+INFO: Old Name: U.jpg New Name: U @planet.jpg
+Jan 01, 2018 9:42:08 AM Model.DataLogger addLog
+INFO: Old Name: U @planet.jpg New Name: U.jpg
+Jan 01, 2018 9:42:16 AM Model.DataLogger addLog
+INFO: Old Name: X @planet.jpg New Name: X.jpg
